@@ -55,7 +55,7 @@ router.get('/:id', (req, res) => {
       });
 });
 
-
+// /api/users: save the username and password in database
 router.post('/', (req, res) => {
 
   User.create({

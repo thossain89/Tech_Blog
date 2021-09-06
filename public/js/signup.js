@@ -1,7 +1,7 @@
 async function signupFormHandler(event) {
     event.preventDefault();
 
-
+// Signup making a post request at backend user route where we are saving username and password.
     const username = document.querySelector('#username-signup').value.trim();
     const password = document.querySelector('#password-signup').value.trim();
 

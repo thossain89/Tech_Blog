@@ -15,12 +15,9 @@ Comment.init({
         type: DataTypes.STRING,
         validate: {
 
-            len: {
-                
-                    args: [4, 255],
-                    msg: "The Comment should be between 4 to 255 characters."
-                 
-            }
+            len:[4]            
+                                
+            
         }
     },
     user_id: {

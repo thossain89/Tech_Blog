@@ -35,8 +35,7 @@ User.init(
       validate: {          
        len: { 
             args: [6, 10],
-            msg: "The password length should be between 6 and 10 characters."
-         }
+            }
       }
   }
 },

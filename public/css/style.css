@@ -3,7 +3,7 @@
                       --secondary: #dce9d5;
                       --tertiary: #788585;
                       --light-dark: #a1a0a1;
-                      --dark: #201110;
+                      --dark: #495e72;
                       --border-radius: .3rem;
                   }
                   
@@ -66,7 +66,7 @@
                       color: white;
                       border: none;
                       outline: none;
-                      background-color: var(--light-dark);
+                      background-color: #107073;
                       transform: translate(-1px, -1px);
                   }
                   
