@@ -21,8 +21,8 @@
 
 ## Installation  
 
-#### The application is deployed on heroku and can be used via the link below.
-![Tech-Blog]()
+#### The application is deployed on heroku and can be used via clicking the link below.
+[Tech-Blog on HEROKU !!!](https://limitless-depths-94721.herokuapp.com/)
 
 ### To run and test the source code you need to follow the steps below
 
@@ -65,7 +65,7 @@ To perform the crud operations separately use INSOMNIA an open source API client
 
 ## Demo of Tech Blog :
 
-![Tech Blog]() 
+![DEMO Tech Blog](./assets/img/demo.gif)  
 
 
 ## Contribution
